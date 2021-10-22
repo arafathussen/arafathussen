@@ -1,4 +1,4 @@
-### Hello World, I'm Arafat 👋
+### Hey, I'm Arafat 👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="500" height="320" />
 
