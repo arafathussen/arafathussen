@@ -5,7 +5,7 @@
 ## I'm a Student, Developer, Creator, and Mentor!!
 
 
-- ✍ You can find my projects here [arafathussendev]
+- ✍ You can find my projects here [portfolio]: https://github.com/arafathussendev
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on open source
