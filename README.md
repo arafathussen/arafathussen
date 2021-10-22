@@ -1,10 +1,9 @@
 ### Hello World, I'm Arafat 👋
 
-<img align="right" alt="GIF" src="" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="500" height="320" />
 
 ## I'm a Student, Developer, Creator, and Mentor!!
 
-Here are some ideas to get you started:
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
