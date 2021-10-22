@@ -7,7 +7,7 @@
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and MongoDB
+- 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
