@@ -1,6 +1,6 @@
 ### Hey, I'm Arafat 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="100%" height="auto" />
+
 
 ## I'm a Student, Web Developer, Video Creator, and Mentor!!
 
@@ -13,4 +13,6 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages ( Bangla, English, Hindi, Spanish)
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="100%" height="auto" />
 
