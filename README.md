@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="500" height="320" />
 
-## I'm a Student, Developer, Creator, and Mentor!!
+## I'm a Student, Web Developer, Video Creator, and Mentor!!
 
 
 - ✍ You can find my projects here [portfolio](https://github.com/arafathussendev)
