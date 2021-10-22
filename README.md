@@ -12,7 +12,8 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="500" height="auto" />
 - ⚡ Fun fact: I speak 4 languages ( Bangla, English, Hindi, Spanish)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="500" height="auto" />
+
 
