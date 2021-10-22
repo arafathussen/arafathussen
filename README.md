@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
