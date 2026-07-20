@@ -12,7 +12,10 @@
 
     <!-- Typing Animation -->
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+AI-Powered+Applications;Python+Automation+%26+Bot+Developer;Building+Modern+Web+Solutions" alt="Typing SVG" />
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Building+Modern+%26+Scalable+Web+Applications;Building+AI-Powered+Applications;Python+Automation+%26+Bot+Developer;Workflow+Automation+with+n8n"
+        alt="Typing SVG"
+      />
     </a>
   </ul>
 </div>
@@ -25,7 +28,7 @@
 - 👋 Hi, I'm **[@arafathussen](https://github.com/arafathussen)**
 - 💻 I'm a **Full-Stack Developer** focused on building modern, scalable, and user-focused web applications.
 - 🎨 I work with **React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS** for frontend development.
-- ⚙️ I use **Node.js, Express.js, PostgreSQL, Prisma, and REST APIs** for backend development.
+- ⚙️ I use **Node.js, Express.js, PostgreSQL, Prisma, Supabase, and REST APIs** for backend development.
 - 🤖 I build **AI-powered applications** and integrate intelligent AI capabilities into modern web solutions.
 - 🐍 I work with **Python Automation, Bot Development, and Workflow Automation**.
 - 🔄 I use **n8n** to build automated workflows and integrate services.
@@ -67,18 +70,26 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/arafathussen)
 
 ### Database & ORM:
-[![Database](https://skillicons.dev/icons?i=postgres,mongodb,prisma)](https://github.com/arafathussen)
+[![Database](https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase)](https://github.com/arafathussen)
 
 ### AI & Automation:
+[![AI & Automation](https://skillicons.dev/icons?i=py)](https://github.com/arafathussen)
+<img src="https://cdn.simpleicons.org/n8n" alt="n8n" height="48" width="48" />
+<img src="https://cdn.simpleicons.org/telegram" alt="Telegram Bot" height="48" width="48" />
+
 **AI-Powered Applications • AI Integration • Python Automation • Bot Development • Workflow Automation • n8n**
 
-### Deployment Platforms:
-[![Deployment](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/arafathussen)
-
-**Also working with:** Render
+### Deployment & Cloud Platforms:
+[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase)](https://github.com/arafathussen)
+<img src="https://cdn.simpleicons.org/render" alt="Render" height="48" width="48" />
 
 ### Tools & Technologies:
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,windows)](https://github.com/arafathussen)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,windows,linux)](https://github.com/arafathussen)
+
+### Creative & Media Tools:
+<img src="https://skillicons.dev/icons?i=ps,pr" alt="Adobe Photoshop and Premiere Pro" />
+<img src="https://cdn.simpleicons.org/capcut" alt="CapCut" height="48" width="48" />
+<img src="https://cdn.simpleicons.org/wondershare" alt="Wondershare Filmora" height="48" width="48" />
 
 <br/>
 
