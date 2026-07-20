@@ -116,8 +116,8 @@
 ### GitHub Statistics:
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arafathussen&show_icons=true&theme=swift&hide_border=true&include_all_commits=true&count_private=true" alt="Arafat Hussen GitHub Stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathussen&theme=swift&hide_border=true&layout=compact" alt="Arafat Hussen Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafathussen&show_icons=true&theme=default&hide_border=true" alt="Arafat Hussen GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathussen&layout=compact&theme=default&hide_border=true" alt="Arafat Hussen Top Languages" height="180" />
 </p>
 
 ### GitHub Streak:
