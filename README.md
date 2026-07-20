@@ -74,17 +74,25 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" height="48">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram Bot" height="48">
-  <img src="https://cdn.simpleicons.org/openai/000000" alt="OpenAI" height="48">
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" height="48">
-  <img src="https://cdn.simpleicons.org/meta/0866FF" alt="Meta AI" height="48">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" width="48">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram Bot" height="48" width="48">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI" height="48" width="48">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" height="48" width="48">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/meta/0866FF" alt="Meta AI" height="48" width="48">
 </p>
 
 ### Deployment & Cloud Platforms:
 
-[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase)](https://github.com/arafathussen)
-<img src="https://cdn.simpleicons.org/render/000000" alt="Render" height="48">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase" alt="Vercel, Netlify, Cloudflare and Firebase" height="48">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/render/000000" alt="Render" height="48" width="48">
+</p>
 
 ### Tools & Technologies:
 
@@ -94,8 +102,10 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr" alt="Adobe Photoshop, Illustrator and Premiere Pro" height="48">
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" height="48">
-  <img src="https://img.shields.io/badge/Filmora-07273D?style=for-the-badge&logo=wondersharefilmora&logoColor=white" alt="Filmora" height="48">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/capcut.svg" alt="CapCut" height="48" width="48">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wondersharefilmora.svg" alt="Filmora" height="48" width="48">
 </p>
 
 <br/>
@@ -105,19 +115,25 @@
 
 ### GitHub Statistics:
 
-| <a href="https://github.com/arafathussen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arafathussen&theme=swift&hide_border=true&include_all_commits=true&count_private=true" alt="Arafat Hussen GitHub Stats" /></a> | <a href="https://github.com/arafathussen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathussen&theme=swift&hide_border=true&layout=compact" alt="Arafat Hussen Top Languages" /></a> |
-| ------------- | ------------- |
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arafathussen&show_icons=true&theme=swift&hide_border=true&include_all_commits=true&count_private=true" alt="Arafat Hussen GitHub Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathussen&theme=swift&hide_border=true&layout=compact" alt="Arafat Hussen Top Languages">
+</p>
 
 ### GitHub Streak:
 
-<img src="https://streak-stats.demolab.com/?user=arafathussen&theme=default&hide_border=true" alt="Arafat Hussen GitHub Streak">
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=arafathussen&theme=default&hide_border=true" alt="Arafat Hussen GitHub Streak">
+</p>
 
 <br/>
 
 <!-- Random Developer Quote -->
 ## 💡 RANDOM DEV QUOTE:
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Developer Quote">
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Developer Quote">
+</p>
 
 ---
 
