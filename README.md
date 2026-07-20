@@ -103,7 +103,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr" alt="Adobe Photoshop, Illustrator and Premiere Pro" height="48">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/capcut.svg" alt="CapCut" height="48" width="48">
+  <img src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/capcut.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/capcut-icon.png" alt="CapCut" height="48" width="48">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wondersharefilmora.svg" alt="Filmora" height="48" width="48">
 </p>
