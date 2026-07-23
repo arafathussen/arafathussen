@@ -120,6 +120,13 @@
   <img src="https://streak-stats.demolab.com/?user=arafathussen&theme=default&hide_border=true" alt="Arafat Hussen GitHub Streak">
 </p>
 
+### Top Languages:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathussen&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a" alt="Arafat Hussen Top Languages">
+</p>
+
+<br/>
 <br/>
 
 <!-- Random Developer Quote -->
