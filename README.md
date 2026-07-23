@@ -126,6 +126,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arafathussen&theme=default" alt="Top Languages by Repo"/>
 </p>
 
+### GitHub Profile Overview:
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafathussen&theme=default" alt="Arafat Hussen GitHub Profile Overview"/>
+</p>
+
 <br/>
 
 <!-- Random Developer Quote -->
