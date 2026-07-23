@@ -147,3 +147,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arafathussen&label=Profile%20Views&color=0e75b6&style=flat" alt="Arafat Hussen Profile Views">
 </p>
+<p align="left">
+⭐ Thanks for visiting my profile.Feel free to connect with me.
+</p>
