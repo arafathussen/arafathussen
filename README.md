@@ -123,7 +123,7 @@
 ### Top Languages:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arafathussen&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arafathussen&theme=default" alt="Top Languages by Repo"/>
 </p>
 
 <br/>
